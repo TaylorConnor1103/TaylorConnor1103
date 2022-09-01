@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm looking forward to learning more about CS!
 
 <!--
 **TaylorConnor1103/TaylorConnor1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
